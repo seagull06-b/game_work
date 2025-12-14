@@ -7,3 +7,6 @@
 <hr>
 게임 설명 영상 링크 <br>
 https://youtu.be/0Q3eqX7gArQ
+<hr>
+게임 실행 방법 <br>
+zip폴더를 다운 받은 후 압축을 풀고 .sln을 실행하면 됨. <br>
